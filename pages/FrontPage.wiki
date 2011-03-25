@@ -1,0 +1,40 @@
+##master-page:FrontPage
+#format wiki
+#language en
+#pragma section-numbers off
+{{http://gdsfh.dyndns.org/kamlo-ext/kamlo.png|THIS IS KAMLO!!!111|width=50%}}
+
+= Camlunity: русскоязычное OCaml-сообщество =
+
+Что здесь?
+
+Эта вики содержит материалы, касающиеся языка программирования [[http://caml.inria.fr|OCaml]].
+А именно, всё, что по формату не влезает в наш гламурный жаббер-чятик [[xmpp:ocaml@conference.jabber.ru|ocaml@conference.jabber.ru]].
+
+Когда-нибудь в светлом будущем у нас будет культурный [[http://camlunity.ru|сайт]], а пока что концентрируемся в вики.
+
+Можете начать, например, с этих страниц:
+ * RecentChanges: посмотреть недавние изменения
+ * WikiSandBox: поиграться с вики-разметкой
+ * FindPage: найти что-нибудь в базе данных
+ * HelpOnMoinWikiSyntax: подсмотреть в шпаргалку по вики-разметке
+ * SiteNavigation: окинуть взглядом сайт с высоты птичьего полёта
+
+<<GoTo>>
+
+== Список статей (в качестве временного решения) ==
+
+<<TitleIndex>>
+
+
+== How to use this site ==
+
+A Wiki is a collaborative site, anyone can contribute and share:
+ * Edit any page by pressing '''<<GetText(Edit)>>''' at the top or the bottom of the page 
+ * Create a link to another page with joined capitalized words (like WikiSandBox) or with {{{[[words in brackets]]}}}
+ * Search for page titles or text within pages using the search box at the top of any page
+ * See HelpForBeginners to get you going, HelpContents for all help pages.
+
+To learn more about what a WikiWikiWeb is, read about MoinMoin:WhyWikiWorks and the MoinMoin:WikiNature. Also, consult the HelpMiscellaneous/FrequentlyAskedQuestions page. 
+
+This wiki is powered by [[http://moinmo.in/|MoinMoin]].

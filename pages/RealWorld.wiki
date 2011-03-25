@@ -1,0 +1,25 @@
+= OCaml in "Real World"™ =
+
+|||| End-user software ||
+|| [[http://coq.inria.fr/|coq]] || formal proof management system ||
+|| [[http://mldonkey.sourceforge.net|mldonkey]] || multi-platform multi-network P2P daemon ||
+|| [[http://www.seas.upenn.edu/~bcpierce/unison/|unison]] || file synchronization tool ||
+|| [[http://www.geneweb.org/|GeneWeb]] || Genealogy Software ||
+|| [[http://hevea.inria.fr/|HEVEA]] || L^A^T,,E,,X to HTML translator ||
+|| [[http://minskyprimus.net/sks/|SKS]] || OpenPGP keyserver ||
+|| [[http://packages.debian.org/sid/approx|approx]] || caching proxy server for Debian archive files ||
+|||| Development tools ||
+|| [[http://www.fftw.org/faq/section2.html#languages|FFTW]] || C subroutine library for computing the discrete Fourier transform ||
+|| [[http://coccinelle.lip6.fr/|coccinelle]] || program matching and transformation engine for C language ||
+|| [[http://frama-c.com/|Frama-C]] || source-code analysis platform for C software ||
+|| [[http://cil.sourceforge.net/|CIL]] || program analysis and transformation frontend for C language ||
+|| [[https://github.com/facebook/pfff/wiki/Main|pfff]] || code analysis and refactoring tool ||
+|||| Commercial users ||
+|| [[http://wiki.xensource.com/xenwiki/XAPI_Developer_Guide|Citrix]] || Xen virtualization technology API ||
+|| [[http://www.lexifi.com/technology/ocaml|LexiFi]] || software applications and infrastructure technology for the capital markets industry ||
+|| [[http://www.esterel-technologies.com/technology/free-software/|Esterel Technologies]] || critical systems and software development solutions ||
+|| [[http://janestreet.com/technology/ocaml.php|Jane Street]] || quantitative proprietary trading platform ||
+|| [[http://www.mylife.com/|MyLife]] (former [[http://oss.wink.com|Wink]]) || people search platform (backend) ||
+|| [[http://www.alertlogic.com/|AlertLogic]] || IT security and compliance automation (ocaml is used for log analysis) ||
+|| [[http://www.aboutecho.com/|Echo]] (former JS-kit) || platform for low latency web apps (Language transformations) ||
+|||| See also [[http://caml.inria.fr/consortium/|Caml Consortium]] ||

@@ -1,0 +1,8 @@
+Здесь написано как писать драйвера для erlang'а на камле.
+
+
+см. также:
+
+http://github.com/EchoTeam/ocaml-erlang-port
+
+http://lionet.livejournal.com/53209.html
