@@ -21,7 +21,7 @@ let current_revision dir =
 let copy_latest wd dir latest =
   let source = concat (concat dir "revisions") latest in
   let basename = basename dir in
-  let target = add_extension (concat wd basename) "wiki" in
+  let target = add_extension (concat wd basename) "moinmoin" in
   let () = cp ~force:Force ([source]) target
   in ()
 ;;
